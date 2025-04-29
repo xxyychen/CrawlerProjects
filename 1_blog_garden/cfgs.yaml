@@ -1,0 +1,26 @@
+# 通用参数
+general:
+  project_name: "BlogGarden"
+  version: "1.0.0"
+  debug_mode: true
+
+
+# 爬虫参数
+crawler:
+  html_path: "./data/content***page***.html"
+  pages: 5
+  timeout: 10
+
+
+# 日志设置
+logging:
+  log_file: "/var/log/crawler.log"
+
+# 高级功能
+features:
+  enable_proxy: true
+  proxy_pool:
+    - "http://proxy1:8080"
+    - "http://proxy2:8080"
+    - "http://proxy3:8080"
+  enable_cache: false
