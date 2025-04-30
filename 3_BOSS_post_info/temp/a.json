@@ -1,0 +1,94 @@
+{
+	"code": 0,
+	"message": "Success",
+	"zpData": {
+		"pageType": 0,
+		"selfAccess": false,
+		"securityId": "TDCrX0E530lKq-21PlJhWWGer_tqxSCPIw0hTaUMMPxbq-4EZKe67Py0tMRR43g4uuYPKGLX17UA4uHmm_DrAN6Q4byvOCpLvTqM5JQ95IigiIM1Tsd8Iga8OI0ebGrLUz7-Zd7Q3D89AmEXHp172qV7x1E9QfAAUTE0SjnZff7W_OvFilU7WVkwM2l7KffL2mDA7oXfQx4vzdEIRyLhni8~",
+		"sessionId": null,
+		"lid": "1YlkApkzpSh.search.1",
+		"jobInfo": {
+			"encryptId": "1791bc6da53488d503dy29S7ElFR",
+			"encryptUserId": "05fde18f2e36b01233d82Ni6EVM~",
+			"invalidStatus": false,
+			"jobName": "Python后端开发（大数据，大模型）",
+			"position": 100109,
+			"positionName": "Python",
+			"location": 101010100,
+			"locationName": "北京",
+			"experienceName": "3-5年",
+			"degreeName": "本科",
+			"jobType": 0,
+			"proxyJob": 0,
+			"proxyType": 0,
+			"salaryDesc": "18-19K",
+			"payTypeDesc": null,
+			"postDescription": "作为Python后端工程师，你将参与开发大数据和大模型相关应用，负责设计和实现高效、可扩展的服务端架构。你的主要工作将涉及使用Flask框架来构建API接口，并利用Pandas进行数据处理和分析。此外，你还将与前端开发人员紧密合作，确保服务端与客户端之间的无缝集成。\n主要职责：\n使用Flask框架设计和实现RESTful API。\n利用Pandas进行数据分析，处理来自不同来源的数据集。\n优化现有系统性能，提高代码质量和可维护性。\n与前端开发人员协作，确保API接口满足产品需求。\n参与代码审查，提供反馈以改进代码质量。\n持续关注最新的Web开发趋势和技术，推动技术创新。\n职位要求\n计算机科学或相关领域的本科及以上学历。\n至少3年以上的Python后端开发经验。\n熟练掌握Flask框架，具有实际项目经验。\n精通Pandas库，能够高效地处理大规模数据集。\n对RESTful架构有深入理解，能够设计并实现高效的API。\n良好的沟通能力和团队合作精神。\n具备良好的问题解决能力，能够在压力下保持冷静和专注。\n加分项：\n熟悉SQL数据库及NoSQL数据库（如MongoDB）。\n了解Docker容器化技术。\n具备机器学习基础，了解如何使用Python进行模型训练和部署",
+			"encryptAddressId": "269ce47b050a65211n163tm1F1pWwY25Uf-c",
+			"address": "北京顺义区理想汽车北京研发总部文良街11号",
+			"longitude": 116.57979,
+			"latitude": 40.169037,
+			"staticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/a1fc4e90e4fb183faa5b8d89b7e2cfe7",
+			"pcStaticMapUrl": "https://img.bosszhipin.com/beijin/amap/staticMap/aef0e800cc655958cdc244bdf6215a7d",
+			"baiduStaticMapUrl": "",
+			"baiduPcStaticMapUrl": "",
+			"overseasAddressList": [],
+			"overseasInfo": null,
+			"showSkills": ["Docker", "Pandas", "MySQL", "Python", "Flask", "RESTful"],
+			"anonymous": 0,
+			"jobStatusDesc": "最新"
+		},
+		"bossInfo": {
+			"name": "刘女士",
+			"title": "招聘主管",
+			"tiny": "https://img.bosszhipin.com/beijin/upload/avatar/20250312/607f1f3d68754fd02c4264cc2c78785cf8d0882d48ec730712ee7c5c124b8b8d0c064c3c8a5b4fad_s.jpg.webp",
+			"large": "https://img.bosszhipin.com/beijin/upload/avatar/20250312/607f1f3d68754fd02c4264cc2c78785cf8d0882d48ec730712ee7c5c124b8b8d0c064c3c8a5b4fad.jpg.webp",
+			"activeTimeDesc": "刚刚活跃",
+			"bossOnline": true,
+			"brandName": "北京纬创",
+			"bossSource": 0,
+			"certificated": true,
+			"tagIconUrl": null,
+			"avatarStickerUrl": null
+		},
+		"brandComInfo": {
+			"encryptBrandId": "a3ff305faae8963a1XRy3tu6EA~~",
+			"brandName": "北京纬创",
+			"logo": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20180613/b7f898a719b8167123e2075f57a5c37ccfcd208495d565ef66e7dff9f98764da.jpg",
+			"stage": 808,
+			"stageName": "不需要融资",
+			"scale": 305,
+			"scaleName": "1000-9999人",
+			"industry": 100021,
+			"industryName": "计算机软件",
+			"introduce": "纬创软件是亚洲地区专业的软件外包服务及信息整合服务的领导厂商，我们专注于技术顾问服务、软件外包服务、业务流程外包服务、以及产品全球化服务，全球有14个营业据点，客户包括世界500强企业以及跨国知名企业。\n\n纬创软件的主要服务项目包括：技术顾问服务、软件外包服务、业务流程外包服务、及产品全球化服务。我们拥有丰富多样的技术资源，可满足客户不同的需求；我们采取跨区整合、全球交付的离岸开发工作模式，以提升项目开发的效率与质量；为确保我们的项目与服务的质量，我们取得CMMI level3认证，及ISO9001质量管理系统、ISO27001信息安全管理系统等国际认证，用最严谨的标准进行软件开发、质量管理、与资安管理。",
+			"labels": ["五险一金", "定期体检", "带薪年假", "员工旅游", "节日福利", "零食下午茶"],
+			"activeTime": 1745979212000,
+			"visibleBrandInfo": true,
+			"focusBrand": false,
+			"customerBrandName": "北京纬创",
+			"customerBrandStageName": "不需要融资"
+		},
+		"oneKeyResumeInfo": {
+			"inviteType": 0,
+			"alreadySend": false,
+			"canSendResume": false,
+			"canSendPhone": false,
+			"canSendWechat": false
+		},
+		"relationInfo": {
+			"interestJob": false,
+			"beFriend": false
+		},
+		"handicappedInfo": null,
+		"appendixInfo": {
+			"canFeedback": false,
+			"chatBubble": null
+		},
+		"atsOnlineApplyInfo": {
+			"inviteType": 0,
+			"alreadyApply": false
+		},
+		"certMaterials": []
+	}
+}
